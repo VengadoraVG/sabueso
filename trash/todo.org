@@ -1,0 +1,12 @@
+* unfinished
+** TODO name field is unique
+** TODO make a good validation
+* unstarted
+** TODO finish the model
+** TODO control panel for user-system interaction
+** TODO control panel for account settings
+* unknown
+** TODO server runs a method on custom time
+** TODO make a good validation
+* collaborative delussion
+** TODO github repo
